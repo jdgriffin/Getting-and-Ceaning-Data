@@ -3,6 +3,7 @@
 
 # This is to set the working directory
 projectWD <- "~/Coursera/Data Science/3. Getting and Cleaning Data/Project"
+#projectWD <- file.choose()
 setwd(projectWD)
 getwd()
 
